@@ -52,9 +52,7 @@ Dự án áp dụng kiến trúc chuẩn MVC và các công nghệ phổ biến 
 
 ---
 
-## 📷 Giao Diện Hệ Thống (Screenshots)
-
-> *Lưu ý: Thay thế các đường dẫn dưới đây bằng đường dẫn ảnh thực tế của bạn trong thư mục dự án (ví dụ: `images/home.png`)*
+## 📷 Giao Diện Hệ Thống
 
 ### Trang chủ & Danh sách chủ đề
 ![Trang chủ TechForum](image/home_page.png)
