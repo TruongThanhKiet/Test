@@ -57,13 +57,13 @@ Dự án áp dụng kiến trúc chuẩn MVC và các công nghệ phổ biến 
 > *Lưu ý: Thay thế các đường dẫn dưới đây bằng đường dẫn ảnh thực tế của bạn trong thư mục dự án (ví dụ: `images/home.png`)*
 
 ### Trang chủ & Danh sách chủ đề
-![Trang chủ TechForum](images/home_page.png)
+![Trang chủ TechForum](home_page.png)
 
 ### Trang chi tiết bài đăng & Thảo luận
-![Chi tiết chủ đề](images/post_detail.png)
+![Chi tiết chủ đề](post_detail.png)
 
 ### Khu vực Quản trị dành cho Admin
-![Bảng điều khiển Admin](images/admin_dashboard.png)
+![Bảng điều khiển Admin](admin_dashboard.png)
 
 ---
 
